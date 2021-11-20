@@ -17,7 +17,7 @@ El objetivo de este año es: Desarrollar algoritmos y/o visualizaciones de evolu
 
 ## Integrantes
 <p align="right">
-<a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="150"/> </a>
+<a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="250"/> </a>
 </p>
   
 * Díaz Cuevas Bruno.

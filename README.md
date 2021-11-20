@@ -11,8 +11,8 @@ El Datatón Anticorrupción busca ser una oportunidad para construir de forma ab
 El objetivo de este año es: Desarrollar algoritmos y/o visualizaciones de evolución patrimonial para detectar anomalías o tendencias en datos de declaraciones, partiendo de un conjunto de datos (ficticio) de declaraciones patrimoniales y de intereses de personas servidoras públicas, entre otros datos.
 
 
-_Fecha: 02/12/2021_
-### **Equipo Biomancos**
+
+### **Equipo Biomancos**  _Fecha: 02/12/2021_
 
 <p align="right">
 <a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="300"/> </a>

@@ -6,6 +6,15 @@ El Datatón Anticorrupción busca ser una oportunidad para construir de forma ab
 
 El objetivo de este año es: Desarrollar algoritmos y/o visualizaciones de evolución patrimonial para detectar anomalías o tendencias en datos de declaraciones, partiendo de un conjunto de datos (ficticio) de declaraciones patrimoniales y de intereses de personas servidoras públicas, entre otros datos.
 
+## Integrantes
+
+### **Equipo: _Biomancos:_**
+
+* Díaz Cuevas Bruno.
+* Flores Luna Luis Eduardo.
+* García Espinosa David Alexis.
+* Rivas Roa Ricardo Eduardo.
+
 ## Bases de datos a utilizar
 
 * Datos de declaraciones patrimoniales y de intereses de personas servidoras públicas.

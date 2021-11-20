@@ -14,11 +14,11 @@ El objetivo de este año es: Desarrollar algoritmos y/o visualizaciones de evolu
 _Fecha: 02/12/2021_
 ### **Equipo Biomancos**
 
-## Integrantes
-
 <p align="right">
 <a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="200"/> </a>
 </p>
+
+## Integrantes
 
 * Díaz Cuevas Bruno.
 * Flores Luna Luis Eduardo.

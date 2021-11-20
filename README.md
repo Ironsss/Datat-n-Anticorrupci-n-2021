@@ -16,6 +16,10 @@ _Fecha: 02/12/2021_
 
 ## Integrantes
 
+<p align="rigth">
+<a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="150"/> </a>
+</p>
+
 * Díaz Cuevas Bruno.
 * Flores Luna Luis Eduardo.
 * García Espinosa David Alexis.

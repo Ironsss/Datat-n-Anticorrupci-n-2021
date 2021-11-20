@@ -34,7 +34,7 @@ El objetivo de este año es: Desarrollar algoritmos y/o visualizaciones de evolu
   
 ## Resultado esperado
 
-* Los resultados de los algoritmos deberán ser desplegados a través de tableros dinámicos de visualización de datos (dashboard).
+* Los resultados de los algoritmos deberán ser desplegados a través de tableros dinámicos de visualización de datos (**dashboard**).
 
 ## Reglas Generales
 

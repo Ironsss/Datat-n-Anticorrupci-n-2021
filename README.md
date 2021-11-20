@@ -16,7 +16,7 @@ _Fecha: 02/12/2021_
 
 ## Integrantes
 
-<p align="rigth">
+<p align="left">
 <a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="150"/> </a>
 </p>
 

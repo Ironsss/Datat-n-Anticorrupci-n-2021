@@ -19,6 +19,7 @@ El objetivo de este año es: Desarrollar algoritmos y/o visualizaciones de evolu
 <p align="right">
 <a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="150"/> </a>
 </p>
+  
 * Díaz Cuevas Bruno.
 * Flores Luna Luis Eduardo.
 * García Espinosa David Alexis.

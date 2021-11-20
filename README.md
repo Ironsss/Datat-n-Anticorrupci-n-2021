@@ -16,8 +16,8 @@ _Fecha: 02/12/2021_
 
 ## Integrantes
 
-<p align="left">
-<a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="150"/> </a>
+<p align="right">
+<a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="200"/> </a>
 </p>
 
 * Díaz Cuevas Bruno.

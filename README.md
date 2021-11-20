@@ -15,7 +15,7 @@ _Fecha: 02/12/2021_
 ### **Equipo Biomancos**
 
 <p align="right">
-<a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="200"/> </a>
+<a href="https://pagina.fciencias.unam.mx/"><img src="https://elecciones.fciencias.unam.mx/pasadas/imgs/logoFC.svg" width="300"/> </a>
 </p>
 
 ## Integrantes

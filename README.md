@@ -31,7 +31,7 @@ _Fecha: 02/12/2021_
 * Datos de personas servidoras públicas que intervienen en contrataciones públicas.
 * Datos de personas servidoras públicas sancionadas por actos de corrupción.
 
-<sub> _Es importante recalcar que los datos que se utilizarán durante el Datatón son ficticios, dado que los Formatos de declaración vigentes se publicaron a finales de 2019 y todavía no se cuenta información histórica para analizar su cambio a través de los años. Asimismo, parte de los datos incluidos en las declaraciones son reservados y no están abiertos al público en general, por ello, las herramientas y algoritmos que nos ayudes a construir servirán para que las personas e instituciones públicas facultadas puedan aplicarlas para detectar posibles casos de corrupción._ <sub>
+<sub><sub> _Es importante recalcar que los datos que se utilizarán durante el Datatón son ficticios, dado que los Formatos de declaración vigentes se publicaron a finales de 2019 y todavía no se cuenta información histórica para analizar su cambio a través de los años. Asimismo, parte de los datos incluidos en las declaraciones son reservados y no están abiertos al público en general, por ello, las herramientas y algoritmos que nos ayudes a construir servirán para que las personas e instituciones públicas facultadas puedan aplicarlas para detectar posibles casos de corrupción._ <sub><sub>
   
 ## Resultado esperado
 

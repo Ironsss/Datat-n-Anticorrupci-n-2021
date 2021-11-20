@@ -3,7 +3,7 @@
 El Datatón Anticorrupción busca ser una oportunidad para construir de forma abierta y colaborativa herramientas que sirvan a la sociedad civil a explotar y analizar los datos abiertos disponibes por medio de la Plataforma Digital Nacional, con el objetivo de detectar posibles casos de corrupción.
 
 <p align="center">
-<a href="https://dataton2021.plataformadigitalnacional.org/preguntas-frecuentes/"><img src="https://user-images.githubusercontent.com/21961197/142713836-6caef6b2-cc26-426b-a5ac-61d33b5fea77.png" width="150"/> </a>
+<a href="https://dataton2021.plataformadigitalnacional.org/preguntas-frecuentes/"><img src="https://user-images.githubusercontent.com/21961197/142713836-6caef6b2-cc26-426b-a5ac-61d33b5fea77.png" width="250"/> </a>
 </p>
 
 ## Objetivo
@@ -11,7 +11,7 @@ El Datatón Anticorrupción busca ser una oportunidad para construir de forma ab
 El objetivo de este año es: Desarrollar algoritmos y/o visualizaciones de evolución patrimonial para detectar anomalías o tendencias en datos de declaraciones, partiendo de un conjunto de datos (ficticio) de declaraciones patrimoniales y de intereses de personas servidoras públicas, entre otros datos.
 
 
-_Fecha: 09/11/2021_
+_Fecha: 02/12/2021_
 ### **Equipo Biomancos**
 
 ## Integrantes
